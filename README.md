@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apisan Jongpermwattanapol</h1>
-<h3 align="center">Here's an improved version of your introduction: Hi, I'm Apisan Jongpermwattanapol, but you can call me Cesar. I'm a first-year Computer Science student at the University of British Columbia (UBC), driven by a passion for solving real-world problems with innovative programming solutions. My journey began with competitive programming and Arduino projects, which sparked my interest in building systems and optimizing code. Since then, I've expanded my skill set to include Web Development, Data Science, and Machine Learning. I thrive on continuous learning and enjoy exploring new tools and technologies. Whether it's developing efficient algorithms or creating intuitive, user-friendly applications, I’m always eager to take on new challenges and push the boundaries of what’s possible. After all, I wholeheartedly believe that hard problems always seem impossible but just until it’s done.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apisanjpwtnp&label=Profile%20views&color=0e75b6&style=flat" alt="apisanjpwtnp" /> </p>
+<h3 align="center">Hi, I'm Apisan Jongpermwattanapol, or you can call me Cesar.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apisanjpwtnp" alt="apisanjpwtnp" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **apzjong@gmail.com**
 
@@ -20,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apisanjpwtnp&show_icons=true&locale=en&layout=compact" alt="apisanjpwtnp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apisanjpwtnp&show_icons=true&locale=en" alt="apisanjpwtnp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apisanjpwtnp&" alt="apisanjpwtnp" /></p>
