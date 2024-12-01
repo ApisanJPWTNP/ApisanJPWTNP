@@ -5,7 +5,7 @@
 🌟 **Introduction:**  
 I'm a first-year Computer Science student at the University of British Columbia (UBC), driven by a passion for solving real-world problems with innovative programming solutions. My journey began with competitive programming and Arduino projects, which sparked my interest in building systems and optimizing code. Since then, I've expanded my skill set to include Web Development, Data Science, and Machine Learning. 
 
-I thrive on continuous learning and enjoy exploring new tools and technologies. Whether it's developing efficient algorithms or creating intuitive, user-friendly applications, I’m always eager to take on new challenges and push the boundaries of what’s possible. Ultimately, I believe that hard problems always seem impossible—but only until they’re done.
+I thrive on continuous learning and enjoy exploring new tools and technologies. Whether it's developing efficient algorithms or creating intuitive, user-friendly applications, I’m always eager to take on new challenges and push the boundaries of what’s possible. Ultimately, I believe that complex problems always seem impossible—but only until it's done.
 
 ---
 
