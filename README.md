@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Apisan Jongpermwattanapol</h1>
-<h3 align="center">Hi, I'm Apisan Jongpermwattanapol, or you can call me Cesar.</h3>
+
+<h1 align="center">Hi, I'm Apisan Jongpermwattanapol, or you can call me Cesar.</h1>
 
 ---
 
