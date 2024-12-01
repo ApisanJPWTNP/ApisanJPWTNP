@@ -3,6 +3,11 @@
 
 ---
 
+🌟 **Introduction:**  
+I'm a passionate Computer Science student at the University of British Columbia (UBC) with a love for solving real-world problems through programming. My journey started with competitive programming and Arduino projects, which fueled my interest in system building and code optimization. Over time, I've expanded my skills to include web development, data science, and machine learning. I thrive on continuous learning, exploring new tools, and pushing boundaries by tackling complex challenges.
+
+---
+
 📫 **How to reach me:**  
 **apzjong@gmail.com**  
 
@@ -60,12 +65,6 @@
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
