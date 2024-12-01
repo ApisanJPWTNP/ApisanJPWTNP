@@ -1,10 +1,9 @@
 
 <h1 align="center">Hi, I'm Apisan Jongpermwattanapol, or you can call me Cesar.</h1>
 
----
 
 🌟 **Introduction:**  
-I'm a passionate Computer Science student at the University of British Columbia (UBC) with a love for solving real-world problems through programming. My journey started with competitive programming and Arduino projects, which fueled my interest in system building and code optimization. Over time, I've expanded my skills to include web development, data science, and machine learning. I thrive on continuous learning, exploring new tools, and pushing boundaries by tackling complex challenges.
+I'm a first-year Computer Science student at the University of British Columbia (UBC), driven by a passion for solving real-world problems with innovative programming solutions. My journey began with competitive programming and Arduino projects, which sparked my interest in building systems and optimizing code. Since then, I've expanded my skill set to include Web Development, Data Science, and Machine Learning. I thrive on continuous learning and enjoy exploring new tools and technologies. Whether it's developing efficient algorithms or creating intuitive, user-friendly applications, I’m always eager to take on new challenges and push the boundaries of what’s possible. Ultimately, I believe that hard problems always seem impossible—but only until they’re done.
 
 ---
 
